@@ -1,0 +1,13 @@
+C:\Users\Shermaine\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.exe
+C:\Users\Shermaine\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.deps.json
+C:\Users\Shermaine\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.runtimeconfig.json
+C:\Users\Shermaine\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.runtimeconfig.dev.json
+C:\Users\Shermaine\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.dll
+C:\Users\Shermaine\source\repos\binary\binary\bin\Debug\netcoreapp3.1\binary.pdb
+C:\Users\Shermaine\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.csprojAssemblyReference.cache
+C:\Users\Shermaine\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.AssemblyInfoInputs.cache
+C:\Users\Shermaine\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.AssemblyInfo.cs
+C:\Users\Shermaine\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.csproj.CoreCompileInputs.cache
+C:\Users\Shermaine\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.dll
+C:\Users\Shermaine\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.pdb
+C:\Users\Shermaine\source\repos\binary\binary\obj\Debug\netcoreapp3.1\binary.genruntimeconfig.cache
